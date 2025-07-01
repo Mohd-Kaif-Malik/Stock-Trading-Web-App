@@ -1,2 +1,2 @@
-# Zerodha Clone
-A full-stack web application for stock market & portfolio management.
+# Stock Trading Web App
+A simplified Stock Trading Web App for tracking stocks and viewing a portfolio.
